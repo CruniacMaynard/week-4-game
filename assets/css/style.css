@@ -1,0 +1,26 @@
+#game-rules{
+  padding: 15px;
+  border: 2px solid black;
+}
+
+#game-number{
+  margin-top: 80px;
+  padding: 15px;
+  border: 2px solid black;
+}
+
+#game{
+  margin-top: -25px;
+  padding: 5px;
+}
+
+.guardian{
+  margin: 5px;
+  width: 165px;
+  height: auto;
+}
+
+.power{
+  margin-top: 20px;
+  background: #666666;
+}
